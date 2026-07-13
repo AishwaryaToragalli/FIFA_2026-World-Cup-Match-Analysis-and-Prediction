@@ -1,3 +1,6 @@
+--1. Brazil recorded the highest number of wins.
+--2. Semi-finals had the highest average goals per match.
+--3. 15% of matches were decided by penalties.
 CREATE DATABASE fifa_analysis;
 
 USE fifa_analysis;
